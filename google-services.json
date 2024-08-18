@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "540486358553",
+    "project_id": "tss-pos-34bfc",
+    "storage_bucket": "tss-pos-34bfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540486358553:android:d2b4f816543a638f37bc88",
+        "android_client_info": {
+          "package_name": "com.Sana.barcodescanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuPIIpTUpJJLH2_9eyDllobuQ0e91qS0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
